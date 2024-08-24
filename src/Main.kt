@@ -1,0 +1,10 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+fun main (){
+        val world = "Мир"
+        println("Привет " + world + "!")
+        val name = "Роман"
+        println("Меня зовут " + name +".")
+        println("Я хочу стать разработчиком мобильных преложений в Андройд среде.")
+        println("Я окончил институт по специальности Прикладная информатика в экономике 18 лет назад.")
+       }
